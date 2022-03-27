@@ -1,0 +1,52 @@
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  position: relative;
+  display: block;
+  width: 100%;
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+#particles-js {
+  position: absolute;
+  height: 100vh;
+}
+
+#fullpage .section1 {
+  height: 100vh;
+  background-color: red;
+}
+
+#fullpage .section2 {
+  background-color: aqua;
+  height: 100vh;
+}
+
+#fullpage .section3 {
+  background-color: blue;
+}
+
+#fullpage .section4 {
+  background-color: blueviolet;
+}
+
+#fullpage .section {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#fullpage .fp-tableCell {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/*# sourceMappingURL=styles.css.map */

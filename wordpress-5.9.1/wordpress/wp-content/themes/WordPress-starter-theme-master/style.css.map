@@ -1,0 +1,17 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"sass/styles.sass",
+		"sass/wp-theme-infos.css",
+		"sass/variables.sass",
+		"sass/general.sass",
+		"sass/components/_all.sass",
+		"sass/components/navigation.sass",
+		"sass/components/footer.sass",
+		"sass/includes/_all.sass",
+		"sass/front-page/_all.sass"
+	],
+	"names": [],
+	"mappings": "ACAA;;;;;;;EAOE"
+}
